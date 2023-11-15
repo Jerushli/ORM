@@ -43,7 +43,8 @@ admin.site.register(footballplayer,footballplayerAdmin)
 
 ## OUTPUT
 
-![Alt text](image.png)
+![image](https://github.com/Jerushli/ORM/assets/120041243/2ac0ba67-c73f-4fbb-9de5-3cc0e5e3d558)
+
 
 
 ## RESULT
